@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xoi:home|Door43 (xoi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xoi|d43-xoi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xoi/archive/master.zip|d43-xoi.zip]]
+
+**Recent Changes**
+{{changes>ns = xoi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xoi|Ethnologue data]]
+
